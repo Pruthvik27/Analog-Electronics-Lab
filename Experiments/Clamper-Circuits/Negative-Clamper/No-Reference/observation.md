@@ -1,1 +1,1 @@
-
+# Negative Clamper (No Reference)
